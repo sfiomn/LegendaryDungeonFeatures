@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate-perspective",
+  "base": {
+    "parent": "legendary_additions:block/forest_dungeon_heart"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "legendary_additions:item/forest_dungeon_heart_icon"
+    },
+    "fixed": {
+      "parent": "legendary_additions:item/forest_dungeon_heart_icon"
+    },
+    "ground": {
+      "parent": "legendary_additions:block/forest_dungeon_heart"
+    }
+  }
+}

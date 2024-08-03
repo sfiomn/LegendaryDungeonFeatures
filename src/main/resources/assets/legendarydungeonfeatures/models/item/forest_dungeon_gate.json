@@ -1,0 +1,31 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "legendary_additions:item/forest_dungeon_gate"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-172.18, 57.49, -133.73],
+			"translation": [0, -1, -0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90.07, 57.49, -133.73],
+			"translation": [0, -1, -0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-74.51, -70.95, -158.84],
+			"translation": [1.75, 3.75, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, -70.95, -158.84],
+			"translation": [1.75, 3.75, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"ground": {
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

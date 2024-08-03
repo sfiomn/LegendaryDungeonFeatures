@@ -1,0 +1,44 @@
+{
+  "lock_unlocked": {
+    "category": "neutral",
+    "subtitle": "sounds.legendary_additions.lock_unlocked",
+    "sounds": [
+      {
+        "name": "legendary_additions:lock_unlocked1",
+        "stream": false
+      },
+      {
+        "name": "legendary_additions:lock_unlocked2",
+        "stream": false
+      },
+      {
+        "name": "legendary_additions:lock_unlocked3",
+        "stream": false
+      }
+    ]
+  },
+  "open_gate_successful": {
+    "category": "neutral",
+    "subtitle": "sounds.legendary_additions.open_gate_successful",
+    "sounds": [
+      {
+        "name": "legendary_additions:open_successful",
+        "stream": false
+      }
+    ]
+  },
+  "open_gate_failed": {
+    "category": "neutral",
+    "subtitle": "sounds.legendary_additions.open_gate_failed",
+    "sounds": [
+      {
+        "name": "legendary_additions:open_failed1",
+        "stream": false
+      },
+      {
+        "name": "legendary_additions:open_failed2",
+        "stream": false
+      }
+    ]
+  }
+}

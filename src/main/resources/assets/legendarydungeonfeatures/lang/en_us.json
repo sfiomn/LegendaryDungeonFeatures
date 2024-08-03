@@ -1,0 +1,20 @@
+{
+  "block.legendary_additions.forest_dungeon_heart": "Forest Dungeon Heart",
+
+  "block.legendary_additions.forest_dungeon_gate": "Forest Dungeon Gate",
+  "block.legendary_additions.gate.entityLocked": "You may not open now; there is %s nearby",
+  "block.legendary_additions.gate.entityLockApplied": "Lock based on nearby %s entity applied",
+
+  "itemGroup.legendary_additions": "Legendary Additions",
+
+  "item.legendary_additions.forest_key": "Forest Key",
+  "item.legendary_additions.desert_key": "Desert Key",
+
+  "sounds.legendary_additions.lock_unlocked": "Lock Unlocks",
+  "sounds.legendary_additions.open_gate_successful": "Gate Opens",
+  "sounds.legendary_additions.open_gate_failed": "Blocked Gate",
+
+  "screen.legendary_additions.dungeon_heart": "Dungeon Heart",
+
+  "effect.legendary_additions.dungeon_heart": "Protected Dungeon"
+}
